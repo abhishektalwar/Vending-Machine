@@ -8,4 +8,4 @@ The coding challenge aims at designing a vending machine with the following assu
 3. Assume initial menu of {'CandyBar':200, ‘Chips’:150, ‘Soda’:100}
 4. Assume people can pay with standard Canadian currency
 
-In order to run the program on your machine, Python 3.7 or later needs to be installed. Once the repository is downloaded from Github, the code can be run using the main.py file. 
+In order to run the program on your machine, Python 3.7 or later needs to be installed. Once the Vending-Machine repository is downloaded from Github, the code can be run using the main.py file. 
